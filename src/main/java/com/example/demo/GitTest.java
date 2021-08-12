@@ -8,5 +8,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("commit at master:local");
         System.out.println("second commit at master:local");
+        System.out.println("commit to dev at tongzhou 812");
     }
 }
